@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muskan Kumari Singh.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Node.js.
+- 🌱 I’m currently learning Programming language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me muskank20@navgurukul.org
 
